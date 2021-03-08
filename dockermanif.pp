@@ -8,3 +8,4 @@ class install_docker {
     manage_package => true,
     package_name   => 'docker-engine',
   }
+}
